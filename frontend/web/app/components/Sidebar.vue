@@ -10,9 +10,9 @@ const toggleMobileMenu = () => {
 };
 
 const links = [
-  { to: '/', label: 'Dashboard', icon: 'prime:objects-column' },
-  { to: '/transactions', label: 'Expenses', icon: 'prime:credit-card' },
-  { to: '/analytics', label: 'Analytics', icon: 'prime:chart-line' },
+  { to: '/', label: 'Dashboard', icon: 'pi pi-objects-column' },
+  { to: '/expenses', label: 'Expenses', icon: 'pi pi-credit-card' },
+  { to: '/analytics', label: 'Analytics', icon: 'pi pi-chart-line' },
 ];
 </script>
 
